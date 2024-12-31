@@ -43,3 +43,11 @@ Deep Learning-Based Bone Fracture Classification using CNNs, ResNet50, and VGG16
 - Detailed performance comparison of the three models.
 - Insights into the suitability of deep learning models for medical diagnostics.
 - Contribution to faster and more accurate automated bone fracture detection.
+
+- Below are the performance comparison charts for the models used in this project:
+
+### Performance Comparison 1
+![Performance Comparison 1](./Images/performance%20comparison%201.png)
+
+### Performance Comparison 2
+![Performance Comparison 2](./Images/performance%20comparison%202.png)
